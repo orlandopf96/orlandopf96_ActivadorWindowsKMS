@@ -1,0 +1,18 @@
+Como activar los Gadgets en Windows 8 Pro 32/64-Bits
+====================================
+
+1. Ejecute el archivo "KJ121026" (Ejecutar como administrador).
+
+2. De click en el botón "English" para ponerlo en Inglés ya que al abrir por primera vez sale en Koreano.
+
+3. Ahora seleccione "Windows 8 + Server 2012".
+
+4. Escoja "Windows 8 Desktop Gadgets", siga los pasos del asistente de instalación.
+
+5. Para comprobar los Gadgets de click derecho en el escritorio y seleccione "Gadgets" y verá la diferencia.
+
+Listo!!!
+
+================
+By D3NiS © 2012-12-19
+================
